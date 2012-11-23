@@ -15,7 +15,12 @@ WHAT IS LINUX?
   loading, shared copy-on-write executables, proper memory management,
   and multistack networking including IPv4 and IPv6.
 
-  It is distributed under the GNU General Public License - see the
+  It is distributed under the GNU General Public Liceивап
+ап
+ывап
+ыа
+прва
+рnse - see the
   accompanying COPYING file for more details. 
 
 ON WHAT HARDWARE DOES IT RUN?
@@ -117,7 +122,9 @@ INSTALLING the kernel source:
      make mrproper
 
    You should now have the sources correctly installed.
-
+авпвыап
+авы
+аыр
 SOFTWARE REQUIREMENTS
 
    Compiling and running the 3.x kernels requires up-to-date
